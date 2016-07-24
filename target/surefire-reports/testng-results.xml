@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="24202" started-at="2016-03-09T12:44:06Z" finished-at="2016-03-09T12:44:30Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24202" started-at="2016-03-09T12:44:06Z" finished-at="2016-03-09T12:44:30Z">
+      <class name="com.testing.Test2">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.testing.Test2@3467f45e]" name="test2" duration-ms="9080" started-at="2016-03-09T18:14:21Z" finished-at="2016-03-09T18:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.testing.Test2 -->
+      <class name="com.testing.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:com.testing.AppTest@2eaafcb8]" name="testApp" duration-ms="9" started-at="2016-03-09T18:14:06Z" finished-at="2016-03-09T18:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.testing.AppTest -->
+      <class name="com.testing.Test1">
+        <test-method status="PASS" signature="launchapp()[pri:0, instance:com.testing.Test1@253ac14a]" name="launchapp" duration-ms="15096" started-at="2016-03-09T18:14:06Z" finished-at="2016-03-09T18:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+      </class> <!-- com.testing.Test1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
